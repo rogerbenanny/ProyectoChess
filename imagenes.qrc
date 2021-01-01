@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/ima">
+        <file>Imagenes/alfilblanco.png</file>
+        <file>Imagenes/alfilnegro.png</file>
+        <file>Imagenes/caballoblanco.png</file>
+        <file>Imagenes/caballonegro.png</file>
+        <file>Imagenes/damablanca.png</file>
+        <file>Imagenes/damanegra.png</file>
+        <file>Imagenes/peonblanco.png</file>
+        <file>Imagenes/peonnegro.png</file>
+        <file>Imagenes/reyblanco.png</file>
+        <file>Imagenes/reynegro.png</file>
+        <file>Imagenes/torreblanco.png</file>
+        <file>Imagenes/torrenegra.png</file>
+    </qresource>
+</RCC>
